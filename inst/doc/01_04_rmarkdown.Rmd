@@ -1,6 +1,10 @@
 ---
 title: "R markdown lecture"
-author: "Jeff Leek"
+author: 
+  Original:
+    "Jeff Leek"
+  Modifier:
+    "Weiguang Zhou"
 output:
   rmarkdown::html_document:
     toc: true
